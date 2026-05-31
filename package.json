@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/fenemuo/senpipe/issues"
   },
-  "homepage": "https://github.com/fenemuo/senpipe#readme"
+  "homepage": "https://github.com/fenemuo/senpipe#readme",
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
 }
